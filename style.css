@@ -1,0 +1,50 @@
+img {
+    transform: translate(200px, 50px);
+}
+
+.box1{
+    margin: 50px;
+    width: 150px;
+    height: 100px;
+    background: url(images/tortoise-transparent.png) no-repeat;
+}
+
+
+
+.box2 img {
+    transform: rotate(30deg);
+}
+
+.box2{
+    margin: 50px;
+    width: 150px;
+    height: 100px;
+    background: url(images/starfish-transparent.png) no-repeat;
+}
+
+
+.box3 img {
+    transform: scale(1.5);
+    opacity: 0.5;
+}
+
+.box3{
+    margin: 50px;
+    width: 103px;
+    height: 130px;
+    background: url(images/octopus.png) no-repeat;
+}
+
+
+
+.box4 img {
+    transform: skew(-40deg, 15deg);
+
+}
+
+.box4{
+    margin: 50px;
+    width: 103px;
+    height: 130px;
+    background: url(images/snail-transaparent.png) no-repeat;
+}
